@@ -19,7 +19,7 @@ Our agent selects next action by looking epsilon greedy. With the probability
 The value of epsilon is set 0.999, and decrease gradually with time until 0.001.
 
 ## Result
-The result is included. At 455. episode I had an average score of 13.09 and it
+The result is included. At 555. episode I had an average score of 13.09 and it
 stopped training.
 
 ![plot of rewards](./result.jpg)
