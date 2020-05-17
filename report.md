@@ -26,3 +26,17 @@ stopped training.
 
 
 [Model](./model.pt)
+
+## Future Work
+
+After successfully finishing the project. I started looking for improvements
+in my implementation.
+
+- First, there can be improvement in the hyperparameters. I can setup a grid
+search of hyperparameters mainly for Q-value model.
+
+- A search in the papers regarding DQN there is a paper about successful
+implementation of DQNs for games see this:
+https://arxiv.org/abs/1511.05952
+
+I might try implementing Prioritized Experience Replay.
